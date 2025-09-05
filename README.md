@@ -1,4 +1,4 @@
-👋 Hi, I’m Yeukai Loreen Muusha
+👋 Hi, I’m Yeukai Loreen Muusha - ([Intro video](https://youtube.com/shorts/96F2tPqnNQo?feature=share))
 
 💻 Front-End Engineer | React | TypeScript | Next.js |  Cybersecurity | Networking | Python | SQL
 
