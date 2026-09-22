@@ -1,6 +1,6 @@
 👋 Hi, I’m Yeukai Loreen Muusha - ([Intro video](https://youtube.com/shorts/96F2tPqnNQo?feature=share))
 
-💻 Front-End Engineer | React | TypeScript | Next.js |  Cybersecurity | Networking | Python | SQL
+💻 Software Engineer | React | TypeScript | Next.js |  Cybersecurity | Networking | Python | SQL
 
 I’m a Software Engineer with 5+ years of experience building scalable, user-focused web applications. My expertise lies in React, TypeScript, Next.js, and modern UI frameworks, with a strong background in integrating APIs, performance optimization, and delivering responsive, accessible design systems.
 
